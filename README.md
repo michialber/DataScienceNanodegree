@@ -14,8 +14,9 @@ Does the origin of job candidates have an influence on the most relevant fields,
 
 # Resources
 Key_fields_when_applying_for_a_job.jpynb (Jupyter notebook containing the different steps of the CRISP-DM process)
-survey-results-schema.csv (csv-file containing the schema of the survey)
-survey-results.csv (csv-file containing the results)
+Udacity.rar containing:
+- survey-results-schema.csv (csv-file containing the schema of the survey)
+- survey-results.csv (csv-file containing the results)
 
 # Points of further action
 Methods in the Jupyter Notebook could be used to analyze other variables than Country, Gender
