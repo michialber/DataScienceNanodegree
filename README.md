@@ -1,5 +1,8 @@
 # DataScienceNanodegree
 
+# Blog post on Medium
+https://medium.com/@michaelalber86/a-guide-for-employers-what-do-job-candidates-look-for-when-applying-for-a-job-406bd4c7b266
+
 # Introduction/Background
 Companies' HR recruiting departments often face the challenge to set priorities in their job offer. 
 Should I increase the compensation? 
